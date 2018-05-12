@@ -1,0 +1,33 @@
+_repo: Madame-Sans-G-ne-Tome-IIILe-Roi-de-Rome_43980
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43980-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lepelletier, Edmond
+    aliases:
+    - Bouhélier, Edmond-Adolphe Lepelletier de
+    - Bouhelier, Edmond-Adolphe Lepelletier de
+    - Lepelletier, Edmond-Adolphe de Bouhélier
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '7324'
+    url: http://www.gutenberg.org/2009/agents/7324
+    wikipedia: http://fr.wikipedia.org/wiki/Edmond_Lepelletier
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43980'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815 -- Fiction'
+title: "Madame Sans-Gêne, Tome 3\r\nLe Roi de Rome"
+url: http://www.gutenberg.org/ebooks/43980
